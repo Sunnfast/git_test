@@ -1,0 +1,1 @@
+This is Simone's first git project.
